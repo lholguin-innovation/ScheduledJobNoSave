@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ScheduledTask.slnx
+/ScheduledTask/obj
+/ScheduledTask/bin/Release/net10.0-windows
